@@ -13,6 +13,9 @@ Hi I'm Gina. I have been learning software programming languages to be a Backend
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ginaben&&show_icons=true&theme=graywhite)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B5BAD1&title_bg=%239298A4&icon=&icon_color=%23E3E2EB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ginaben&&show_icons=true&theme=graywhite)
 
