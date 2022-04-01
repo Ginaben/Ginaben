@@ -1,4 +1,4 @@
-Hi I'm Gina. I have been learning software programming languages to be a Backend Developer since 2021.
+Hi I'm Gina. I have been learning software programming to be a Backend Developer since 2021.
 
 ---
 ### What I use
