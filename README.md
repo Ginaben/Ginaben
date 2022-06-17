@@ -23,9 +23,11 @@ Hi I'm Gina. I have been learning software programming to be a Backend Developer
 </div>
 
 ---
-
+<div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ginaben&&show_icons=true&theme=graywhite)
-
+  
+</div>
 
 <!--
 <div align="center">
