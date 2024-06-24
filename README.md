@@ -1,5 +1,6 @@
 Hi I'm Gina. I have been learning software programming to be a Backend Developer since 2021.
 
+<!--
 ---
 ### What I use
 
@@ -29,6 +30,8 @@ Hi I'm Gina. I have been learning software programming to be a Backend Developer
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
+
+-->
 
 ---
 <div align="center">
